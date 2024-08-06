@@ -2,7 +2,7 @@
 
 with monthly as (
     select 
-        to_char(release_date, 'YYYY-MM-01') as month,
+        date_format(release_date, '%Y-%m-01') as month,
         count(*) as total_ticket_collection
     from 
         {{ ref('dim_films') }}
