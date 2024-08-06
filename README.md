@@ -23,7 +23,7 @@ This project involves a comprehensive data engineering workflow for analyzing Ma
      - **Data Mart**: Using DIM and FACT tables, data marts are created for strategic team use purposes such as monthly ticket revenue and monthly movie releases.
 
 <p align="center">
-  <img src="[https://github.com/user-attachments/assets/5fbd7c1a-f446-4674-be6f-f5b9eec66634" alt="Data Pipeline Diagram](https://github.com/user-attachments/assets/640b6add-4d8e-4967-816a-6e335e9613ec)"/>
+  <img src="https://github.com/user-attachments/assets/640b6add-4d8e-4967-816a-6e335e9613ec" alt="Data Pipeline Diagram"/>
 </p>
 
 5. **Visualization**
