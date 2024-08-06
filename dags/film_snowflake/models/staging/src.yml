@@ -1,0 +1,18 @@
+version: 2
+
+sources:
+  - name: raw
+    description: "Source for Malaysia films data."
+    tables:
+      - name: raw2023
+        description: "Raw data for 2023 films."
+      - name: raw2022
+        description: "Raw data for 2022 films."
+      - name: raw2021
+        description: "Raw data for 2021 films."
+      - name: raw2020
+        description: "Raw data for 2020 films."
+      - name: raw2019
+        description: "Raw data for 2019 films."
+      - name: raw2018
+        description: "Raw data for 2018 films."
