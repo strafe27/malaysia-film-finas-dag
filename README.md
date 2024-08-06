@@ -14,13 +14,17 @@ This project involves a comprehensive data engineering workflow for analyzing Ma
    - **Task**: Converted PDF files to CSV format using Optical Character Recognition (OCR) technology.
 
 3. **Data Upload**
-   - **Action**: Uploaded the raw CSV data into a database.
+   - **Action**: Uploaded the raw CSV data into Snowflake.
 
 4. **Data Modeling**
    - **Stages Created**:
      - **Staging**: Preliminary data processing and preparation.
-     - **Warehouse**: Centralized data storage for analytical processing.
-     - **Data Mart**: Specialized subset of the warehouse optimized for reporting and analysis.
+     - **Warehouse**: Created DIM and FACT tables
+     - **Data Mart**: Using DIM and FACT tables, data marts are created for strategic team use purposes such as monthly ticket revenue and monthly movie releases.
+
+<p align="center">
+  <img src="[https://github.com/user-attachments/assets/5fbd7c1a-f446-4674-be6f-f5b9eec66634" alt="Data Pipeline Diagram](https://github.com/user-attachments/assets/640b6add-4d8e-4967-816a-6e335e9613ec)"/>
+</p>
 
 5. **Visualization**
    - **Tool Used**: Power BI for creating interactive visualizations and reports.
