@@ -1,4 +1,4 @@
-# Data Engineering Database Modeling Project
+# Data Engineering Database Modeling Project with dbt, Snowflake and Apache Airflow
 
 ## Overview
 
@@ -30,8 +30,29 @@ This project involves a comprehensive data engineering workflow for analyzing Ma
   <img src="https://github.com/user-attachments/assets/640b6add-4d8e-4967-816a-6e335e9613ec" alt="Data Pipeline Diagram"/>
 </p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c7857ce7-f17b-4c39-8f99-09e826a07a1a" alt="Data Pipeline Diagram"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e5066e34-c36b-41cb-be40-4d8187f909d7" alt="Data Pipeline Diagram"/>
+</p>
+
+6. **Data Orchestration**
+   - **Tool Used**: Apache Airflow
+   - To allow daily sceduling to ingest new data
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0c34b05b-2e9a-4b85-b45c-1e37444b60b1" alt="Data Pipeline Diagram"/>
+</p>
+
 5. **Visualization**
    - **Tool Used**: Power BI for creating interactive visualizations and reports.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7544743c-6351-4ee7-81f2-1ee6e04eb49f" alt="Data Pipeline Diagram"/>
+</p>
+
 
 ## Tools Used
 
