@@ -10,6 +10,10 @@ This project involves a comprehensive data engineering workflow for analyzing Ma
    - **Source**: FINAS Malaysian Box Office Data [FINAS](https://www.finas.gov.my/en/malaysian-box-office/)
    - **Period Covered**: 2018 to 2023
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/94400f44-2b40-4c03-8a75-b4396453cf41" alt="Data Pipeline Diagram"/>
+</p>
+
 2. **OCR Processing**
    - **Task**: Converted PDF files to CSV format using Optical Character Recognition (OCR) technology.
 
