@@ -4,6 +4,8 @@
 
 This project involves a comprehensive data engineering workflow for analyzing Malaysian box office data from FINAS. The data spans from 2018 to 2023 and includes various stages of processing, from ingestion to visualization.
 
+The dbt database modelling files can be found in dags/pgsql/
+
 ## Project Workflow
 
 1. **Data Ingestion**
